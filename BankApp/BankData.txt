@@ -1,0 +1,10 @@
+coolName:300.0
+dudeman:1100.2
+cupcoffee:4.0
+drinkboy:44.1
+compbreak:16.55
+fasburn:0.0
+sammy:30.0
+blake:0.0
+1:50.0
+yolo:17.0
